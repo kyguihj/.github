@@ -1,17 +1,1 @@
-### Summary
-<!-- A clear and concise description of what the problem or opportunity is. -->
-
-
-### Changes
-<!-- Describe the changes this pull request introduces. -->
-
-
-<!-- If there's an existing issue for your change, please link to it below next to "Closes".
-If there's _not_ an existing issue, please open one first to make it more likely that this update will be accepted. -->
-
-Closes:
-
-### Task list
-
-- [ ] For workflow changes, I have verified the Actions workflows function as expected.
-- [ ] For content changes, I have reviewed the [style guide](https://github.com/github/docs/blob/main/contributing/content-style-guide.md).
+<!DOCTYPE html> <html lang="ar"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>موقعي الشخصي</title> <style> body { font-family: Arial, sans-serif; text-align: center; direction: rtl; margin: 0; padding: 0; background-color: #f5f5f5; } header { background-color: #4CAF50; color: white; padding: 20px; } nav { margin: 20px 0; } nav a { text-decoration: none; color: #4CAF50; margin: 0 15px; font-weight: bold; } section { padding: 20px; } footer { background-color: #333; color: white; padding: 10px; position: fixed; bottom: 0; width: 100%; } .social-links a { text-decoration: none; color: #4CAF50; margin: 0 10px; font-size: 1.2em; } </style> </head> <body> <header> <h1>مرحبًا بكم في موقعي الشخصي</h1> <p>هذا موقع بسيط باللغة العربية</p> </header> <nav> <a href="#about">من أنا</a> <a href="#services">خدماتي</a> <a href="#contact">اتصل بي</a> </nav> <section id="about"> <h2>من أنا</h2> <p>أنا شخص مهتم بتطوير المواقع وأحب البرمجة والتصميم.</p> </section> <section id="services"> <h2>خدماتي</h2> <ul> <li>تصميم مواقع ويب</li> <li>تطوير تطبيقات ويب</li> <li>تقديم استشارات تقنية</li> </ul> </section> <section id="contact"> <h2>اتصل بي</h2> <p>يمكنك التواصل معي عبر البريد الإلكتروني: <strong>example@email.com</strong></p> <div class="social-links"> <h3>حساباتي على مواقع التواصل</h3> <a href="https://youtube.com/@yousefkaled4064?si=mlGBfSrp5kAHVhWv" target="_blank">حسابي يوتيوب</a> | <a href="https://discord.gg/zNGMjkX5Vb" target="_blank">سيرفري ديسكورد</a> </div> </section> <footer> <p>حقوق الطبع والنشر &copy; 2025. جميع الحقوق محفوظة.</p> </footer> </body> </html>
